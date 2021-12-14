@@ -1,7 +1,24 @@
-.background {
-    background-color: #9F89D6;
-}
 
 body {
     background-color: #9F89D6;
+}
+
+img {
+    border-radius: 50%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.blue {
+    color: blue;
 }
